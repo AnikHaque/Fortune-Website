@@ -1,0 +1,30 @@
+.features{
+    margin-top: 150px;
+}
+
+
+.features-p{
+    line-height: 30px;
+    color: gray;
+    font-family: poppins;
+    font-size: 20px;
+    margin-top: 25px;
+}
+.features-title{
+    margin-top: 150px;
+    font-size: 50px;
+}
+.features-button{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.fa-image{
+    font-size: 20px;
+    margin-left: 40px; 
+    background-color: brown;
+    padding: 20px;
+    border-radius: 50%; 
+    color: cornsilk;
+}

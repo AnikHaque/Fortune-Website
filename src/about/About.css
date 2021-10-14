@@ -1,0 +1,20 @@
+.about-p{
+    line-height: 1.8em;
+    letter-spacing: 0.03em;
+    font-size: 18px;
+    margin-top: 40px;
+    color: gray;
+}
+.about-title{
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 70px;
+}
+.about{
+    font-family: poppins;
+    margin-top: 130px;
+}
+.button-about{
+    margin-right: 100px;
+    margin-top: 20px;
+}
