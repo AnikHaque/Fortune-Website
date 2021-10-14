@@ -1,5 +1,6 @@
 import React from 'react';
 import { Col, Container, Row ,Button} from 'react-bootstrap';
+import Footer from '../footer/Footer';
 import './Features.css'
 const Features = () => {
     return (
@@ -27,6 +28,7 @@ Mobile Friendly App</h1>
     </Col>
   </Row>
 </Container>
+
         </div>
     );
 };
